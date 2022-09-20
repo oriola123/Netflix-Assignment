@@ -1,0 +1,13 @@
+ol{
+    background-color: black;
+    color: white;
+    font-family: serif;
+}
+li{
+    background-color: grey;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    list-style-position: inside;
+}
